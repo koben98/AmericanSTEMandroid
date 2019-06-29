@@ -1,4 +1,4 @@
-# AmericanSTEMandroid
+# AmericanSTEMandroid (unfinished)
 Company internal app for AmericanSTEM
 
 Last edit: 18:21 June 29th, 19
