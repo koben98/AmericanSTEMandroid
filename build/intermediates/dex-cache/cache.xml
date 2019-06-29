@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/HoangNguyen/.android/build-cache/a07d75ea7ac386622d980e270c3b702c3becfb24/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68ef1daf85c69fca8fddf7bbb947fc51cc9f8ca3">
+        <dex dex="/Users/HoangNguyen/Desktop/AmericanSTEM/app/build/intermediates/pre-dexed/debug/classes_ed5ea4e9ae101dcd109917cb1e1ab7cab115e4f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HoangNguyen/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/HoangNguyen/Desktop/AmericanSTEM/app/build/intermediates/pre-dexed/debug/core-3.2.1_17ad1e6fa75f973d701114ffc28384ec83c34de6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HoangNguyen/.android/build-cache/7a0e61e31504a0812e7c3dbdfd1ad74ce59290b2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af8d42f1f020e936b8cd9f5cb6c75993194895a3">
+        <dex dex="/Users/HoangNguyen/Desktop/AmericanSTEM/app/build/intermediates/pre-dexed/debug/classes_3f0940f528dff073a9153c64b076675f87dbce07.jar" />
+    </item>
+
+</items>
