@@ -1,5 +1,6 @@
 # AmericanSTEMandroid
 Company internal app for AmericanSTEM
+
 Last edit: 18:21 June 29th, 19
 
 Writen (unfinished) by Hoang H. Nguyen
